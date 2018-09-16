@@ -1,0 +1,33 @@
+_repo: The-Other-World_51963
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moore, Frank Frankfort
+    aliases:
+    - Moore, F. Frankfort (Frank Frankfort)
+    - Littlemore, F.
+    birthdate: 1855
+    deathdate: 1931
+    gutenberg_agent_id: '837'
+    url: http://www.gutenberg.org/2009/agents/837
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Frankfort_Moore
+description: ''
+gutenberg_issued: '2016-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51963'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paranormal fiction'
+- !lcc 'PR'
+- !lcsh 'Supernatural -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: A providential escape -- "Magic in the web of it" -- The baseless
+  fabric -- Black as he is painted -- The ghost of Barmouth Manor -- The blood oranges
+  -- The strange story of Northavon Priory.
+title: The Other World
+url: http://www.gutenberg.org/ebooks/51963
